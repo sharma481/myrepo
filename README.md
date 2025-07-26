@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaju91&label=Profile%20views&color=0e75b6&style=flat" alt="Manishshrmam69" />
+  <img src="https://komarev.com/ghpvc/?username=sharma481&label=Profile%20views&color=0e75b6&style=flat" alt="sharma481" />
   <br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gaju91&theme=nord&column=8" alt="Manishshrmam69" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sharma481&theme=nord&column=8" alt="sharma481" />
   </a>
 </p>
 
@@ -82,11 +82,11 @@
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaju91&show_icons=true&theme=algolia" alt="gaju91" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharma481&show_icons=true&theme=algolia" alt="sharma481" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaju91&theme=algolia" alt="gaju91" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharma481&theme=algolia" alt="sharma481" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaju91&layout=compact&theme=algolia" alt="gaju91" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma481&layout=compact&theme=algolia" alt="sharma481" />
 </p>
 
 <br/>
